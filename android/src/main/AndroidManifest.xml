@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="kr.co.jahwa.plugin.rfid.btprotocol">
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+</manifest>
